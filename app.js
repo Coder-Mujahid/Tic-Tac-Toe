@@ -37,10 +37,10 @@ function checkWinner() {
       squares[a].textContent === squares[b].textContent &&
       squares[a].textContent === squares[c].textContent
     ) {
-      return true; // We found a winner
+      return true; 
     }
   }
-  return false; // No winner found
+  return false; 
 }
 
 function isDraw() {
