@@ -17,7 +17,7 @@ Include a link to a live demo of your Tic-Tac-Toe game or screenshots to showcas
 
 ## Features
 
-- Classic Tic-Tac-Toe gameplay.
+- Classic Tic-Tac-Toe Gameplay.
 - Two-player mode for competitive gaming.
 - Responsive design for seamless gameplay on all devices.
 
